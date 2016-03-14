@@ -1,0 +1,141 @@
+﻿
+Excercice 001
+===
+
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will 
+give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder 
+of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know 
+how to pursue pleasure rationally encounter consequences that are extremely painful
+
+
+Excercice 002
+===
+
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will 
+give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder 
+of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know 
+how to pursue pleasure rationally encounter consequences that are extremely painful
+
+
+Excercice 003
+===
+
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will 
+give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder 
+of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know 
+how to pursue pleasure rationally encounter consequences that are extremely painful
+
+
+Excercice 004
+===
+
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will 
+give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder 
+of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know 
+how to pursue pleasure rationally encounter consequences that are extremely painful
+
+
+Excercice 005
+===
+
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will 
+give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder 
+of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know 
+how to pursue pleasure rationally encounter consequences that are extremely painful
+
+
+Excercice 006
+===
+
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will 
+give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder 
+of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know 
+how to pursue pleasure rationally encounter consequences that are extremely painful
+
+
+Excercice 007
+===
+
+But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will 
+give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder 
+of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know 
+how to pursue pleasure rationally encounter consequences that are extremely painful
+
+
+old
+===
+BATTLE DEV ESILV http://www.isograd.com/FR/solutionconcours.php?contest_id=2
+
+Détection de session
+Localisation de cible
+Score de Scrabble
+Exploration robotisée
+
+BATTLE DEV REGIONSJOB http://www.isograd.com/FR/solutionconcours.php?contest_id=3
+
+La carte manquante
+La vitesse moyenne
+Validation de RIB
+Distance sur un réseau arborescent
+The social network
+
+MEILLEUR DEV DE FRANCE MARS 2015 http://www.isograd.com/FR/solutionconcours.php?contest_id=4
+Poker
+Nuage de tags
+Salesforce - Qualité de la base
+Trending topics
+Rallonges
+Sables mouvants
+Le jeu de la vie
+
+BATTLE DEV 42 MAI 2014 http://www.isograd.com/FR/solutionconcours.php?contest_id=5
+
+Fizz Buzz Inversé
+Détection de session
+Localisation de cible
+Score de Scrabble
+
+BATTLE DEV REGIONSJOB - NOV 2014 http://www.isograd.com/FR/solutionconcours.php?contest_id=8
+
+Calcul du QI d'un groupe
+Sous-séquence
+Bingo !
+Pavés
+Labyrinthe
+
+BATTLE DEV REGIONSJOB - MARS 2015 http://www.isograd.com/FR/solutionconcours.php?contest_id=10
+
+Années bissextiles
+Format de mot de passe
+Plus long facteur commun
+Bataille navale
+Notation polonaise
+Plus grand carré
+
+SOCIÉTÉ GÉNÉRALE - OCTOBER 2015 http://www.isograd.com/FR/solutionconcours.php?contest_id=11
+
+Closing balance
+Card number validation
+Peak Hour(s)
+Handling cash requests
+Cash usage
+Flooding
+Fire alarms
+
+BATTLE DEV REGIONSJOB - NOVEMBRE 2015 http://www.isograd.com/FR/solutionconcours.php?contest_id=13
+
+Moyenne du bulletin scolaire
+TV
+Scrabble
+Logigraphes
+Ronronnement
+Centrale électrique
+
+CONCOURS TOTAL FÉVRIER 2016 http://www.isograd.com/FR/solutionconcours.php?contest_id=15
+Trivial Pursuit
+Monopoly
+Compression
+Géométrie plane
+Le centre de la matrice
+Le mot le plus courant
+Générateur de S-Séquences
