@@ -47,13 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Exercice007Tests.cs" />
-    <Compile Include="Exercice006Tests.cs" />
-    <Compile Include="Exercice005Tests.cs" />
-    <Compile Include="Exercice004Tests.cs" />
-    <Compile Include="Exercice003Tests.cs" />
-    <Compile Include="Exercice002Tests.cs" />
-    <Compile Include="Exercice001Tests.cs" />
+    <Compile Include="ExerciceTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -20,5 +20,6 @@ namespace MDF201603
         }
 
         public abstract void Write(object res);
+        public abstract void WriteLine(object res);
     }
 }
