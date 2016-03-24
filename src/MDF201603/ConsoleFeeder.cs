@@ -19,6 +19,11 @@ namespace MDF201603
             return _input[_index++];
         }
 
+        public void AddInput(string input)
+        {
+            _input.Add(input);
+        }
+
         public abstract void Write(object res);
         public abstract void WriteLine(object res);
     }
